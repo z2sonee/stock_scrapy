@@ -1,0 +1,1 @@
+schtasks /create /tn "stock_script" /tr C:..\..\..\..\..\..\..\..\..\stock_script.bat /sc minute /mo 1
